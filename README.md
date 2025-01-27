@@ -1,0 +1,1 @@
+This repository contains examples of uncommon Firebase errors, specifically focusing on authentication failures and issues with security rules.  The `firebaseBug.js` file demonstrates code that will trigger these errors, while `firebaseBugSolution.js` shows how to resolve them.  Understanding and properly handling these errors is crucial for building robust Firebase applications.
